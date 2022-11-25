@@ -33,7 +33,7 @@ export default function Projects(props) {
                 src={project.image ? urlFor(project.image).url() : 
                   "https://media-exp1.licdn.com/dms/image/C5603AQHqijyXCfpZ0A/profile-displayphoto-shrink_200_200/0/1604970869670?e=1672876800&v=beta&t=Fm5yYMwoTDEDckp-fgZGwTOt1rUTPH5cBC5ve6kQzHI"}
                 alt=""
-                className="w-auto max-h-96"
+                className="w-auto max-h-72"
               />
 
               <div className="space-y-10 px-0 md:px-10 max-w-6xl">
